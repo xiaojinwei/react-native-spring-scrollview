@@ -1,6 +1,6 @@
 {
-  "name": "@nies/react-native-spring-scrollview",
-  "version": "2.1.0-rc.1",
+  "name": "react-native-spring-scrollview-niesfixed",
+  "version": "0.0.1",
   "description": "A cross-platform (iOS & Android) spring ScrollView",
   "main": "index.js",
   "scripts": {
