@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.author       = { "nies" => "13298408382@163.com" }
   s.platforms    = { :ios => "7.0", :tvos => "9.0" }
   s.source       = { :git => "https://gitee.com/niedcode/react-native-spring-scrollview.git", :tag => s.version }
-  s.source_files  = "./ios/SpringScrollView/**/*.{h,m}"
+  s.source_files  = "ios/SpringScrollView/**/*.{h,m}"
   s.requires_arc = true
 
   s.dependency "React"
